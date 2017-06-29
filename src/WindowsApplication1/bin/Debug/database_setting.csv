@@ -1,0 +1,2 @@
+databaseHost,databaseName,databaseUser,databasePassword
+localhost,redmine_development,root,
